@@ -16,7 +16,7 @@ The AttriSight Dashboard is an insightful HR analytics tool designed to analyze 
 File Format – .pbix for development and .png for visual snapshots.
 
 # Data Source
-Source: IBM HR Analytics Employee Attrition Dataset (via Kaggle)
+Source: <a href=https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset](https://github.com/bharathbk56/employee-attrition-analysis/blob/main/HR_Analytics.csv> View Source</a>
 
 The dataset contains information about 1,470 employees, covering personal details, work experience, salary, performance ratings, and whether or not they left the company.
 
@@ -72,4 +72,4 @@ See how years at company influence employee loyalty.
 
 # Screenshots 
 🔹 Dashboard Overview
-
+Source: <a href=https://github.com/bharathbk56/employee-attrition-analysis/blob/main/Snapshot%20Of%20Dashboard.jpg> Click to View Dashboard</a>
