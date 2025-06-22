@@ -72,4 +72,4 @@ See how years at company influence employee loyalty.
 
 # Screenshots 
 🔹 Dashboard Overview
-Source: <a href=https://github.com/bharathbk56/employee-attrition-analysis/blob/main/Snapshot%20Of%20Dashboard.jpg> Click to View Dashboard</a>
+![Image Alt](https://github.com/bharathbk56/employee-attrition-analysis/blob/main/Snapshot%20Of%20Dashboard.jpg)
