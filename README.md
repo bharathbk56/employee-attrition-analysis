@@ -24,7 +24,7 @@ The dataset contains information about 1,470 employees, covering personal detail
 Business Problem
 Employee attrition is a major cost and concern for companies, especially when identifying who is at risk of leaving isn’t obvious. Raw data offers limited visibility into underlying causes like overtime, job role dissatisfaction, or low income levels.
 
-🌟Goal of the Dashboard
+# Goal of the Dashboard
 
 🔹To provide HR leaders with an interactive, visual analysis tool that:
 
@@ -34,7 +34,7 @@ Employee attrition is a major cost and concern for companies, especially when id
 
 🔹Reveals trends in satisfaction, income, experience, and more.
 
-🌟Walkthrough of Key Visuals
+# Walkthrough of Key Visuals
 
 🔹Top KPIs (Top Left)
 
@@ -73,3 +73,14 @@ See how years at company influence employee loyalty.
 # Screenshots 
 🔹 Dashboard Overview
 ![Image Alt](https://github.com/bharathbk56/employee-attrition-analysis/blob/main/Snapshot%20Of%20Dashboard.jpg)
+
+# Author
+
+**Bharath Kumar T**  
+Data Analyst | Power BI Learner  
+GitHub: [bharathbk56](https://github.com/bharathbk56)
+
+
+## License
+
+This project is free to use for learning, academic, or non-commercial purposes.
